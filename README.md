@@ -12,3 +12,9 @@ Password generator
 
 
 Note: I worked with the tutor to explain me the function and assisted me with this assignment. 
+
+
+link: https://siahmoymajid.github.io/password/
+
+
+
